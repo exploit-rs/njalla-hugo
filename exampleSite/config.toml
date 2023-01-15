@@ -1,7 +1,7 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-theme = 'graysx'
-title = 'Example Graysx Site'
+theme = 'njalla'
+title = 'Njalla theme Site'
 
 ## Site Settings
 [params]
@@ -17,7 +17,7 @@ phone = "123456"
 
 twitter = "#"
 facebook = "#"
-github = "https://github.com/akatiggerx04/graysx-hugo"
+github = "https://github.com/exploit-rs/njalla-hugo"
 
 # Other
 
