@@ -8,9 +8,9 @@ features = ["responsive"]
 min_version = "0.41.0"
 
 [author]
-  name = "akatiggerx04"
-  homepage = "https://github.com/akatiggerx04/graysx-hugo"
-  repo = "https://github.com/akatiggerx04/graysx-hugo"
+  name = "nonnil"
+  homepage = "https://exploit.rs"
+  repo = "https://github.com/exploit-rs/exploit-rs"
 
 [original]
   name = "GrayScale"
